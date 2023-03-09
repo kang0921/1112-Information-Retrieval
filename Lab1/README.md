@@ -1,4 +1,3 @@
-# 1112-Information-Retrieval
 ## Learn to use NLTK for text preprocessing
 
 1. Download dataset from 
